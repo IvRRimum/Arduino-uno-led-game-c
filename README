@@ -1,0 +1,2 @@
+# SETUP
+Must change `/dev` path in `compile_and_upload.sh` and then just run `./compile_and_upload.sh`
